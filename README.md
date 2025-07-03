@@ -1,5 +1,5 @@
 # This CODECRAFT Generative AI Engineer Internship All Repository List
-All this repositor running in google colab, so i don't make requirements.txt for installation in local device
+All this repository running in google colab, so i don't make requirements.txt for installation in local device
 1. [Text Generation With GPT2 - Train or fine-tune GPT2 model with custom dataset](https://github.com/Herutriana44/CODECRAFT_GA_01)
 2. [Image Generation With Pre-trained Models or spesifically Stable-Diffusion to create images from custom text prompt](https://github.com/Herutriana44/CODECRAFT_GA_02)
 3. [Text Generation With Markov Chains](https://github.com/Herutriana44/CODECRAFT_GA_03)
